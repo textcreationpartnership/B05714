@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, obliging heritors and masters, for their tennants and servants.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05714</idno>
+            <idno type="STC">Wing S1953</idno>
+            <idno type="STC">ESTC R233099</idno>
+            <idno type="EEBO-CITATION">52529318</idno>
+            <idno type="OCLC">ocm 52529318</idno>
+            <idno type="VID">179106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179106)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2776:95)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, obliging heritors and masters, for their tennants and servants.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the second day of August, 1677, and of Our Reigne, the twenty ninth year.</note>
+                  <note>Signed: Al. Gibson, Cls. Sti. Concilii.</note>
+                  <note>Landlords and masters are to ensure that their tenants and servants attend public worship and remain in the Protestant faith. Text of oath to that effect at foot of page.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public worship --  Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179106:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION, Obliging Heritors and Maſters, for their Tennants and Servants.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith;</signed> 
+               <salute>To Our Lyon King at Arms or his brethren Heraulds, Macers of Councill, Purſevants, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpe<g ref="char:EOLhyphen"/>cially conſtitute, Greeting;</salute>
+            </opener>
+            <p>Foraſmuch, as notwithſtanding of the many good Laws and Acts, made in Our Parliaments and Privy Coun<g ref="char:EOLhyphen"/>cill, for ſecuring the Proteſtant Religion, the Order and Unity of the Church, and the Tranquillity and Peace of the Kingdom, many do obſtinately continue, through ignorant prejudice, or diſſaffection, to withdraw from the publick Worſhip, and to frequent Houſe and Field. Conventicles, which We have ſo often declared to be the <hi>Nurſeries of Schiſme,</hi> and <hi>Rendezvouſes of Rebellion,</hi> tending to de<g ref="char:EOLhyphen"/>bauch Our Subjects from that Reverence due to Religion and that obedience they owe to Our Authority; And Conſidering, that theſe Offenders take encouragement from their ſuppoſing a Remiſſeneſs in the due and vigorous Execution of Our good and wholſome Laws and Acts provided againſt them: Therefore, We, with advice of the Lords of our Privy Council, in purſuance of Our late Proclamation, dated the eighteenth day of <hi>June,</hi> 1674. years, commanding all Heretors, Landlords, and Liferenters, to require their Rentallers and Tennents, to ſubſcribe the Bond thereto ſubjoined; and of the ſeventh Act of the ſecond Seſſion of our ſecond parliament, whereby all Our Subjects were diſcharged to ſeparate or withdraw from the eſtabliſhed Meetings for Divine Worſhip, Declaring, That every perſon who ſhould abſent themſelves, without a reaſonable Cauſe, to be allowed or diſallowed by the Judges and Magiſtrates therein mentioned, ſhould, if they had any Land in Heretage, Liferent, or proper Wod-ſet, pay the fifth part of his or her valued yearly Rent every Tennent ſix pounds, every Cottar or Servant, fourty ſhilling; As alſo, of the ſixth Act of the ſame Parliament, all Our Subjects were prohibited to cauſe baptize their Children by any, ſave their own Paroch Miniſter, or ſuch as are authorized by the eſtabliſhed Government of the Church, &amp;c. Decla<g ref="char:EOLhyphen"/>ring that the Parent offender, ſhould pay the fourth part of his valued Rent, if an Heretor, Liferenter, or proper Wod-ſetter; fifty pound, if a Tennen twenty pound, if a Cottar; half a years fee, if a ſervant. As alſo, of the thirtie fourth Act of the firſt Seſſion of our firſt Parliament, diſcharging a our Subjects to procure themſelves to be married by Jeſuites, Prieſts, depoſed or ſuſpended Miniſters, or any others not authorized by Law: Each Nobleman, under he peralty of one thouſand pounds; each Barron, one thouſand merks; each Gentleman and Bargeſs, five hundred pounds; and each other perſon, of one hundred merks ſcots: And in purſuance of the other Laws and Acts thereanent provided, Do with advice foreſaid hereby require and Command all Maſters of Families, to cauſe the Chamberlains, Grieves, Domeſtick ſervants, and others entertained by them, give due and exact obedience to the foreſaids Acts; and in caſe of their diſobedience, to remove them out of their ſervice, under the paines and penalties contained in the ſaids Acts: Like as, We ſtrictly require and command all Heretors, Liferenters, Wed ſetters, and Landlords, to require their Rentallers and Tennents, to ſubſcribe the Bond hereunto ſubjoined, authorizing them hereby to raiſe Letters to charge them for that effect, upon ſix dayes, and to denounce and regiſtrate them to Our Horn; if they be Tennents who have Tacks; and if they be moveable Tennents, that they ſhall upon their diſobedience, recover Decreets of Removeal and E<g ref="char:EOLhyphen"/>jection againſt them. Alſo We do hereby diſcharge the ſaids Heretors, Liferenters, Landlords, &amp;c. to ſet their Lands hereafter to any perſon, by word or write, without inſerting the foreſaid Surety in their Tacks, and taking Bonds apart, in caſe there be no written Tacks, that their ſaids Tackſmen, Ren<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ers, and others, their Hynds, Cottars and others, wo ſhall live under them in the ſaids Lands, ſhall give obedience in manner foreſaid: And in caſe of their diſobedience, that their Rights, Tacks, and Poſſeſſions, ſhall be void and null <hi>ipſo facto,</hi> without any Declarator to paſſe thereupon. It is likewiſe here<g ref="char:EOLhyphen"/>by declared, that if any Cottars or Servants, for whom the Rentallers or Tennents ſtand bound, ſhall be found guilty, by tranſgreſſing the fore ſaids Laws and Acts, the reſpective Maſters ſhall have their Relief off the ſaids Contraveeners. And it is further declared, that all Maſters of Families, Landlords;and Here<g ref="char:EOLhyphen"/>tors, who ſhall not give punctual obedience, they ſhall be lyable in the ſame pains and penalties due by the Contraveeners; but prejudice alwayes of proceed<g ref="char:EOLhyphen"/>ing againſt the Contraveeners, and inflicting upon them the pains contained in the ſaids Acts of Parliament; and ſeeing the ſingle and Liferent Eſcheat, of ſuch as live within Regalities, belong to the reſpective Lords thereof, We no wayes intending to prejudge the civil Rights of Our Subjects, do allow them to have the benefit thereof, according to Law: But with advice foreſaid, do ſtrictly charge and command them to uſe exact diligence againſt the Contraveeners of the foreſaids Laws, within their reſpective Juriſdictions; with certification, that if they proſecute them not without colluſion, within thirty dayes after their Delinquence, We will call them before Our Councill and puniſh them for the neglect of their duty. It is hereby declared, that this preſents ſhall no wayes dero<g ref="char:EOLhyphen"/>gat to the former Proclamation, obliging Heretors and others for their Tennents, Cottars, and others, but that the ſame ſhall ſtand, and continue in full force, ſtrength, and effect, to all intents and purpoſes. And that theſe preſents may be notified to all concerned, OUR WILL is herefore, and We charge you ſtrictly and com<g ref="char:EOLhyphen"/>mand, that incontinent, theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful, and there, with all due Solemnity, in Our Name and Authority, by open Proclamation, make Publication thereof: And for the better Execution of theſe preſents, We require the ſeveral Sheriffs, and their Deputes, with all poſſible diligence, to cauſe read and publiſh the ſame upon a Sabbath day, at the ſeveral Paroch Kirks, within the bounds of their Sheriff<g ref="char:EOLhyphen"/>domes, albeit ſome of theſe Paroches may belong to other Juriſdictions, intimating to the Heretors and others foreſaids, that they cauſe their Tennents ſubſcribe theſe Bonds, and report the ſame to the reſpective Sheriffs or their Deputes, who are ordered to return to Our Privy Council an account of the diligence within the Bounds reported to them by the Heretors and others foreſaids, within the ſpaces following, <hi>viz.</hi> The Sheriffs of the Sheriffdomes of <hi>Edinburgh, Haddingtoun, Berwick, Roxburgh, Selkirk, Peebles, Lanerk, Linlithgow, Stirling, Dumbarton, Renfrew, Pearth,</hi> and <hi>Forfar,</hi> betwixt and the ſecond Thurſday of <hi>November</hi> next, and the Sheriffs of the remanent Sheriffdoms within this Kindom, betwixt and the ſecond thurſday of <hi>December</hi> thereafter. And ordains theſe preſents to be printed and publiſhed, that none pretend ignorance. According to Juſtice, as ye will anſwer to Us thereupon. The which to do, We commit to you conjunctly and ſeverally, Our full power by theſe our Letters, delivering them by you duely execute and indorſed again to the Bearer.</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> 
+                  <date>the ſecond day of <hi>Auguſt,</hi> 1677, and of Our Reigne, the twenty ninth year.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. Al. Gibſon, Cl. <hi>S<hi rend="sup">ti</hi>. Concilii</hi>:</signed>
+            </closer>
+            <closer>GOD Save the King.</closer>
+         </div>
+         <div type="deposition">
+            <head>Followes the Tenour of the Bond.</head>
+            <p>I do hereby bind and oblige me, that I, my Wife, Children in my family, Cottars, and ſervants, ſhall not withdraw from Pub<g ref="char:EOLhyphen"/>lick Divine Worſhip, in our reſpective Paroch Churches, but ſhall attend the publick Ordinances there, at the ordinary Dyets thereof, under the pains and penal<g ref="char:EOLhyphen"/>ties contained in the ſeventh Act of the ſecond Seſſion of His <hi>Majeſtie</hi>'s ſecond Parliament; Which is ſx pound ſcots for every Tennent, and fourty ſhilling ſcots for every Cottar or ſervant: As alſo, that neither I nor they ſhall contraveen the ſixti Act of that ſame ſecond Seſsion of Parliament, in having any children of ours baptized with any ſave our own Paroch Miniſters or others lawfully authorized, conform to the ſaid Act, under the penalty of fiftie Pound ſcots, for eve<g ref="char:EOLhyphen"/>ry Tennent, and twenty pound for every Cottar, toties quoties. And that neither I nor they ſhall be married by Miniſters not lawfully authorized, contrary to the thirtie fourth Act of the firſt Seſsion of His <hi>Majeſtie</hi>'s firſt Parliament, under the penalty of one hundred merks, <hi>toties quoties.</hi> And that I, my Wife, and my children in my Familie, Cottars, and ſervants, ſhall not be preſent at any Conventicles, either in houſes or in the fields, under the penalties contained in the Acts of Parliament and former Proclamation of Councill. Conſenting, for the more ſecurity. theſe preſents be inſert and regiſtrate in the Books of Privy Council, that Letters and Executorials may be direct hereupon, in form as effeirs. And constitutes, My Procurators, &amp;C.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by the <hi>Heir</hi> of <hi>Andrew Anderſon,</hi> Printer to His Moſt Sacred <hi>Majesty,</hi> 1677.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
